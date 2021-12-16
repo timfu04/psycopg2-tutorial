@@ -3,8 +3,8 @@ import psycopg2
 con = psycopg2.connect(
     host = "localhost",
     database = "test",
-    user = "postgres",
-    password = "s2spostgres",
+    user = 
+    password = 
     port = 5432
 )
 
